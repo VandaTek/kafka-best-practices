@@ -19,4 +19,6 @@ the "Fan In / Fan Out" pattern
 the "Fan In / Fan Out" pattern batch by batch 
 
 
-Reference URL:  https://medium.com/swlh/how-to-consume-kafka-efficiently-in-golang-264f7fe2155b
+Reference URL:  
+https://medium.com/swlh/how-to-consume-kafka-efficiently-in-golang-264f7fe2155b
+https://github.com/confluentinc/examples/blob/7.0.1-post/clients/cloud/go/consumer.go
